@@ -1,2 +1,2 @@
 # Neil-Yang
-Initional Learner
+Initial Learner
